@@ -1,0 +1,49 @@
+personal cv : 
+
+nama lengkap :
+nama panggilan 
+best foto 
+header title
+personal deskripsi(linkInd)
+
+
+tempat tanggal lahir
+
+contact information: email , wa , ig , git
+
+
+
+edukasi : logo sklh,nama sklh , jenjang tahun masuk/selesai; 
+
+
+
+
+
+experience : company/organisasi name , job title/role , start date & and date , durasi (logic).
+
+link experience
+
+short deskripsi
+
+company icon
+
+
+
+
+deadline 1 minggu
+
+footer: contact info
+
+-Edukasi
+nama sekolah : Sdn Rancamanyar 2
+jenjang tahun masuk : 
+jenjang tahun selesai :
+
+nama sekolah : Mts Nurul Iman
+jenjang tahun masuk : 
+jenjang tahun selesai :
+
+nama sekolah : Smk Assalaam Bandung
+jenjang tahun masuk : 
+jenjang tahun selesai :
+
