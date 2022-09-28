@@ -235,9 +235,12 @@ nav li a {
 }
 
 .fitur img {
+    opacity: 0.9;
     padding: 20px;
     width: 200px;
+    transition: all 0.8s ease;
 }
+
 
 .fitur .pertama .sd {
     width: 160px;
@@ -245,6 +248,11 @@ nav li a {
 
 .fitur .pertama .smk {
     width: 220px;
+}
+
+.fitur img:hover,.pertama .sd:hover , .pertama .smk:hover{
+    opacity: 5;
+    transform: scale(1.12);
 }
 
 .pertama {
@@ -300,6 +308,8 @@ nav li a {
     display: flex;
     width: 550px;
     border-right: 5px solid #DBDFFD;
+    transition: all 0.6s ease;
+    transition-delay: 0.10s;
 }
 
 #pengalaman .card h2 {
@@ -314,9 +324,21 @@ nav li a {
 }
 
 #pengalaman .card-header img {
-    margin: 12px auto;
+    opacity: 0.8;
+    margin: 30px auto;
     width: 150px;
     border-radius: 20px;
+    transition: all 0.4s ease;
+}
+
+
+#pengalaman .card-header img:hover{
+    transform: scale(1.03);
+    opacity: 1;
+}
+
+#pengalaman .card:hover{
+    transform: scale(1.05);
 }
 
 #pengalaman .card-header .plabs {
@@ -405,10 +427,17 @@ nav li a {
 }
 
 #project .box-image img {
+    opacity: 0.8;
     margin-left:30px;
     width: 80%;
     height: 200px;
     object-fit: cover;
+    transition: all 0.3s ease;
+}
+
+#project .box-image img:hover{
+    transform: scale(1.01);
+    opacity: 5;
 }
 
 #project .flex-column {
